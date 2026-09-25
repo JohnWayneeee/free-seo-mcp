@@ -32,7 +32,9 @@ async def error_text(client, name, args):
 
 
 @pytest.fixture(autouse=True)
-def fake(monkeypatch):
+def fake(request, monkeypatch):
+    if request.node.get_closest_marker("live"):
+        return
     FakeTrends.calls = 0
     monkeypatch.setattr(src, "make_client", lambda proxy=None: FakeTrends())
 
