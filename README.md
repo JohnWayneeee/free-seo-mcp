@@ -67,7 +67,7 @@ German, French, Italian. Any other `hl:gl` pair works for autocomplete and Trend
 Install [uv](https://docs.astral.sh/uv/), then:
 
 ```bash
-git clone https://github.com/<you>/free-seo-mcp.git
+git clone https://github.com/JohnWayneeee/free-seo-mcp.git
 cd free-seo-mcp
 uv sync
 ```

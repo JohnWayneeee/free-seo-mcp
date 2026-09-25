@@ -63,7 +63,7 @@ Prompt `keyword_research_workflow` ведёт агента по шагам: си
 Поставьте [uv](https://docs.astral.sh/uv/), затем:
 
 ```bash
-git clone https://github.com/<you>/free-seo-mcp.git
+git clone https://github.com/JohnWayneeee/free-seo-mcp.git
 cd free-seo-mcp
 uv sync
 ```
