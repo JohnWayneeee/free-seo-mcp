@@ -5,3 +5,4 @@ dist/
 seo-data/
 .pytest_cache/
 .ruff_cache/
+*.csv.tmp
