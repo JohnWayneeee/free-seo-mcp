@@ -1,11 +1,11 @@
 [project]
 name = "free-seo-mcp"
 version = "0.1.0"
-description = "Zero-budget keyword research MCP server: autocomplete, Google Trends, Bing Webmaster volumes, Reddit, competitor sitemaps."
+description = "Free keyword research MCP server: autocomplete, Google Trends, Bing search volume, Reddit and competitor sitemaps. A $0 alternative to Ahrefs and Semrush for Claude and Cursor."
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.11"
-keywords = ["mcp", "seo", "keyword-research", "google-trends", "autocomplete"]
+keywords = ["mcp", "mcp-server", "seo", "keyword-research", "search-volume", "google-trends", "autocomplete", "claude", "cursor", "ahrefs-alternative", "semrush-alternative"]
 dependencies = [
     "mcp>=2.2,<3",
     "httpx>=0.28",
