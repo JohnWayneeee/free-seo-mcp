@@ -126,3 +126,7 @@ Pull requests welcome. New autocomplete engines and language packs are the easie
 ## License
 
 MIT
+
+---
+
+☕ Saved you a keyword tool subscription? [Buy me a coffee](https://buymeacoffee.com/JohnWayne) or star the repo.
